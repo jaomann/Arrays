@@ -1,0 +1,14 @@
+C:\Users\João Emanuel\source\repos\ValorXReferencia\bin\Debug\netcoreapp3.1\ValorXReferencia.exe
+C:\Users\João Emanuel\source\repos\ValorXReferencia\bin\Debug\netcoreapp3.1\ValorXReferencia.deps.json
+C:\Users\João Emanuel\source\repos\ValorXReferencia\bin\Debug\netcoreapp3.1\ValorXReferencia.runtimeconfig.json
+C:\Users\João Emanuel\source\repos\ValorXReferencia\bin\Debug\netcoreapp3.1\ValorXReferencia.runtimeconfig.dev.json
+C:\Users\João Emanuel\source\repos\ValorXReferencia\bin\Debug\netcoreapp3.1\ValorXReferencia.dll
+C:\Users\João Emanuel\source\repos\ValorXReferencia\bin\Debug\netcoreapp3.1\ValorXReferencia.pdb
+C:\Users\João Emanuel\source\repos\ValorXReferencia\obj\Debug\netcoreapp3.1\ValorXReferencia.csproj.AssemblyReference.cache
+C:\Users\João Emanuel\source\repos\ValorXReferencia\obj\Debug\netcoreapp3.1\ValorXReferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João Emanuel\source\repos\ValorXReferencia\obj\Debug\netcoreapp3.1\ValorXReferencia.AssemblyInfoInputs.cache
+C:\Users\João Emanuel\source\repos\ValorXReferencia\obj\Debug\netcoreapp3.1\ValorXReferencia.AssemblyInfo.cs
+C:\Users\João Emanuel\source\repos\ValorXReferencia\obj\Debug\netcoreapp3.1\ValorXReferencia.csproj.CoreCompileInputs.cache
+C:\Users\João Emanuel\source\repos\ValorXReferencia\obj\Debug\netcoreapp3.1\ValorXReferencia.dll
+C:\Users\João Emanuel\source\repos\ValorXReferencia\obj\Debug\netcoreapp3.1\ValorXReferencia.pdb
+C:\Users\João Emanuel\source\repos\ValorXReferencia\obj\Debug\netcoreapp3.1\ValorXReferencia.genruntimeconfig.cache
